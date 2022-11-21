@@ -2,7 +2,7 @@
 
 Ce projet consiste à développer un bot qui implémente une stratégie basée sur un algorithme de machine learning.
 
-Le trading algorithmique est une täche qui permet d'utiliser l'ordinateur au sens plus large ou des programmes informatiques pour prendre des décisions d'investissement.
+Le trading algorithmique est une tâche qui permet d'utiliser l'ordinateur au sens plus large ou des programmes informatiques pour prendre des décisions d'investissement.
 
 ÉTAPE :
 1. COLLECTE DES DONNÉES
