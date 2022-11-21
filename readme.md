@@ -1,13 +1,13 @@
 # TRADING ALGO
 
-Ce projet consiste développer un bot qui implémente une stratégie basée sur algorithme machine learning.
+Ce projet consiste à développer un bot qui implémente une stratégie basée sur un algorithme de machine learning.
 
-Le trading algorithmique est une tache qui permet d'utiliser l'ordinateur au sens plus large ou des programmes informatiques pour prendre des décisions d'investissement.
+Le trading algorithmique est une täche qui permet d'utiliser l'ordinateur au sens plus large ou des programmes informatiques pour prendre des décisions d'investissement.
 
 ÉTAPE :
-1. COLLECTION DES DONNÉES
+1. COLLECTE DES DONNÉES
 2. DÉVELOPPEMENT DE LA STRATÉGIE (ENTRAINEMENT DU MODÈLE)
-3. TEST LA STRATÉGIE
+3. TESTER LA STRATÉGIE
 4. MISE EN PRODUCTION DE LA STRATÉGIE
 
 
